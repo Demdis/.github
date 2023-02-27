@@ -32,6 +32,9 @@
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
 	</a>
+	<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="html5" width="40" height="40"/>
+	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
 	</a>
