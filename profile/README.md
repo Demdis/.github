@@ -57,7 +57,10 @@
 
 ---
 
-### Git Flow (development & release) | [link](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20is%20a%20legacy%20Git,software%20development%20and%20DevOps%20practices.)
+<details><summary>Git Flow</summary>
+
+### Development and release flow | [link](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20is%20a%20legacy%20Git,software%20development%20and%20DevOps%20practices.)
+	
 ![Git Flow](https://wac-cdn.atlassian.com/dam/jcr:cc0b526e-adb7-4d45-874e-9bcea9898b4a/04%20Hotfix%20branches.svg?cdnVersion=672)
 #### Naming convention for branch
 - **feature** branch `feature/#{ticket number}-{ticket name/description}`
@@ -70,4 +73,4 @@ The feature branch is created from develop branch, named according to convention
 #### Create a new release
 The release branch is created from develop branch, named according to convention - `release/vX.X.X`.
 
-
+</details>
