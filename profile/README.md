@@ -1,10 +1,10 @@
-<h1>DEMDIS</h3>
+# [DEMDIS](www.demdis.sk)
 
-<h3 align="left">Contact</h3>
-<ul>
-	<li>Website: <a href="www.demdis.sk">demdis.sk</a></li>
-	<li>Instagram: <a href="https://www.instagram.com/demdis_sk/">demdis_sk</a></li>
-</ul>
+DEMDIS je občianske združenie, ktoré sa snaží priniesť porozumenie v spoločnosti. Za projektom stoja ľudia, ktorí veria v lepšiu budúcnosť – sme to my, partia mladých ľudí rozhodnutá vrátiť diskusii úroveň a slušnosť. Už sa viac nechceme pozerať na to, akým smerom sa uberá spoločenská diskusia na Slovensku.
+
+Na našej platforme sa o svoj názor môže podeliť každý. Veríme, že spolu nájdeme spoločnú reč.
+
+[viacej najdete na](https://demdis.sk/o-projekte/)
 
 <h3>Projects</h3>
 <ul>
@@ -55,6 +55,13 @@
 	</a>
 	<a href="https://www.r-project.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Light.svg" alt="R" width="40" height="40"/>
+	</a>
+</p>
+
+<h3 align="left">Social media:</h3>
+<p align="left">
+	<a href="www.demdis.sk" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="DEMDIS Instagra" width="60" height="100"/>
 	</a>
 </p>
 
