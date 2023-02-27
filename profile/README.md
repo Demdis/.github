@@ -60,8 +60,11 @@ Na našej platforme sa o svoj názor môže podeliť každý. Veríme, že spolu
 
 <h3 align="left">Social media:</h3>
 <p align="left">
-	<a href="www.demdis.sk" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="DEMDIS Instagra" width="60" height="100"/>
+	<a href="https://www.instagram.com/demdis_sk/" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="DEMDIS Instagra" width="60" height="60"/>
+	</a>
+	<a href="https://www.linkedin.com/company/demdis/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/Demdis/.github/main/images/In-White-72.png" alt="DEMDIS LinkedIn" width="60" height="60"/>
 	</a>
 </p>
 
