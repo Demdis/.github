@@ -2,9 +2,9 @@
 
 DEMDIS je občianske združenie, ktoré sa snaží priniesť porozumenie v spoločnosti. Za projektom stoja ľudia, ktorí veria v lepšiu budúcnosť – sme to my, partia mladých ľudí rozhodnutá vrátiť diskusii úroveň a slušnosť. Už sa viac nechceme pozerať na to, akým smerom sa uberá spoločenská diskusia na Slovensku.
 
-Na našej platforme sa o svoj názor môže podeliť každý. Veríme, že spolu nájdeme spoločnú reč.
+Na našej platforme sa o svoj názor môže podeliť každý. Veríme, že spolu nájdeme spoločnú reč. [viacej najdete na](https://demdis.sk/o-projekte/)
 
-[viacej najdete na](https://demdis.sk/o-projekte/)
+[Pridajte sa ku nam ❤️](https://demdis.sk/pridajtesa/)
 
 <h3>Projects</h3>
 <ul>
