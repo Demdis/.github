@@ -1,4 +1,4 @@
-# [DEMDIS](www.demdis.sk)
+# [DEMDIS](https://www.demdis.sk)
 
 DEMDIS je občianske združenie, ktoré sa snaží priniesť porozumenie v spoločnosti. Za projektom stoja ľudia, ktorí veria v lepšiu budúcnosť – sme to my, partia mladých ľudí rozhodnutá vrátiť diskusii úroveň a slušnosť. Už sa viac nechceme pozerať na to, akým smerom sa uberá spoločenská diskusia na Slovensku.
 
