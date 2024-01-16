@@ -9,6 +9,7 @@ Na našej platforme sa o svoj názor môže podeliť každý. Veríme, že spolu
 <h3>Projects</h3>
 <ul>
 	<li><a href="https://github.com/Demdis/Admin">Admin</a></li>
+	<li><a href="https://github.com/Demdis/Themis">Themis</a></li>
 	<li><a href="https://github.com/Demdis/Iris">Iris</a></li>
 	<li><a href="https://github.com/Demdis/Ghost-theme">Webiste Ghost theme</a></li>
 	<li><a href="https://github.com/Demdis/Website">Website</a></li>
